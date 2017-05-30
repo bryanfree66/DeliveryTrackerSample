@@ -1,0 +1,5 @@
+C:\code\DeliveryTracker\DeliveryTracker\bin\Debug\DeliveryTracker.dll
+C:\code\DeliveryTracker\DeliveryTracker\bin\Debug\DeliveryTracker.pdb
+C:\code\DeliveryTracker\DeliveryTracker\obj\Debug\DeliveryTracker.csprojResolveAssemblyReference.cache
+C:\code\DeliveryTracker\DeliveryTracker\obj\Debug\DeliveryTracker.dll
+C:\code\DeliveryTracker\DeliveryTracker\obj\Debug\DeliveryTracker.pdb
